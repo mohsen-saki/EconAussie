@@ -1,0 +1,23 @@
+Sector,Industry,Product,Product_Cleaned
+Resources,Aluminium,Bauxite,Bauxite
+Resources,Aluminium,Alumina  b,Alumina
+Resources,Aluminium,Aluminium (ingot metal),Aluminium Ingot
+Resources,Copper,Ores and concentrates  c,Ores and concentrates
+Resources,Copper,Refined,Refined
+Resources,Diamonds,Diamonds  es,Diamonds
+Resources,Gold,Gold  s,Gold
+Resources,Iron Ore,Iron ore  fc,Iron ore
+Resources,Lead,Lead,Lead
+Resources,Nickel,Ores and concentrates  c,Ores and concentrates
+Resources,Nickel,Total metallic content  ds,Intermediate and refined
+Resources,Silver,"Silver, refined",Silver refined
+Resources,Steel,Steel  gs,Steel
+Resources,Tin,Tin  ds,Tin
+Resources,Zinc,Ores and concentrates  c,Ores and concentrates
+Resources,Zinc,Refined,Refined
+Energy,Coal,Metallurgical,Metallurgical
+Energy,Coal,Thermal,Thermal
+Energy,Petroleum,Crude oil and other refinery feedstock,Crude Oil
+Energy,Petroleum,LPG,LPG
+Energy,Petroleum,Refinery products,Refinery Products
+Energy,Petroleum,LNG,LNG
