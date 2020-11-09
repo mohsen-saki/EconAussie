@@ -1,1 +1,2 @@
 # EconAussie
+![Image](Dashboard.jpg)
