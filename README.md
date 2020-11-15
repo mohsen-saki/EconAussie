@@ -76,3 +76,4 @@ When it comes to coal mining, NSW and QLD own almost the whole industry each 44.
 
 * Data Source : [Department of Industry and Science](https://publications.industry.gov.au/publications/resourcesandenergyquarterlyseptember2020/index.html)
 * Dashboard : [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYzA3NzU2NmQtOWFmYS00N2QxLWI4ZTQtY2Q2NDUxMGQ4ZDFkIiwidCI6IjU0ZjZkMTYyLTIzYTgtNDMxNy1iOGRmLTYxMGVkMzU4MTA4YyJ9&pageName=ReportSection)
+* To try the Dashboard on desktop; Just download the template `EconAussie.pbit` and `datasources` and open with **`Power BI`**.
